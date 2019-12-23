@@ -72,7 +72,7 @@ const Input = styled.input`
   font-size: 18px;
   // 오른쪽에 border가 삐져 나오지 않게 처리
   box-sizing: border-box;
-`
+`;
 
 function TodoCreate() {
     const [open, setOpen] = useState(false);
