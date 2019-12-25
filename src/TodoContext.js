@@ -19,7 +19,7 @@ const initialTodos = [
     {
         id: 1,
         text: "기능 구현하기",
-        done: true,
+        done: false,
     },
 ];
 
