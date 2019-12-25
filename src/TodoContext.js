@@ -12,12 +12,12 @@ const initialTodos = [
         done: true,
     },
     {
-        id: 1,
+        id: 3,
         text: "Context 만들기",
         done: false,
     },
     {
-        id: 1,
+        id: 4,
         text: "기능 구현하기",
         done: false,
     },
